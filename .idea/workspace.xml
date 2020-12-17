@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1644f65a-14d9-4f56-9aa5-c8fc6aba8c33" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="iphonesimulator_505CCF1D-7B9D-42CC-9E52-03204EF568AC" />
+  <component name="ProjectId" id="1llMOkCL85Uxvca64rHObUIV5Yi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="OBJC.PRESERVED_TARGET_SELECTION" value="Image List" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Image List" type="AppleRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Image List" TARGET_NAME="Image List" CONFIG_NAME="Debug" SCHEME_NAME="Image List" IS_LOCATION_SIMULATION_ALLOWED="true" APPLICATION_LANGUAGE="IDELaunchSchemeLanguageUseSystemLanguage" APPLICATION_REGION="" RUN_TARGET_PROJECT_NAME="Image List" RUN_TARGET_NAME="Image List" MAKE_ACTIVE="TRUE" SHOULD_DEBUG_EXTENSIONS="false">
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <embedded_app_extension_list />
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1644f65a-14d9-4f56-9aa5-c8fc6aba8c33" name="Default Changelist" comment="" />
+      <created>1608167195118</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608167195118</updated>
+      <workItem from="1608167196211" duration="5314000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="709" y="283" key="#com.intellij.ide.util.MemberChooser" timestamp="1608205825906">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="709" y="283" key="#com.intellij.ide.util.MemberChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1608205825906" />
+    <state x="634" y="314" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1608170756175">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="634" y="314" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1608170756175" />
+    <state x="654" y="437" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1608215337380">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="654" y="437" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1792.1120@0.0.1792.1120" timestamp="1608215337380" />
+    <state width="1750" height="392" key="GridCell.Tab.0.bottom" timestamp="1608236769218">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="392" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1608236769218" />
+    <state width="1750" height="392" key="GridCell.Tab.0.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1608169673082" />
+    <state width="1750" height="392" key="GridCell.Tab.0.center" timestamp="1608236769217">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="392" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1608236769217" />
+    <state width="1750" height="392" key="GridCell.Tab.0.center/0.23.1792.1017@0.23.1792.1017" timestamp="1608169673066" />
+    <state width="1750" height="392" key="GridCell.Tab.0.left" timestamp="1608236769216">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="392" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1608236769216" />
+    <state width="1750" height="392" key="GridCell.Tab.0.left/0.23.1792.1017@0.23.1792.1017" timestamp="1608169673065" />
+    <state width="1750" height="392" key="GridCell.Tab.0.right" timestamp="1608236769218">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="392" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1608236769218" />
+    <state width="1750" height="392" key="GridCell.Tab.0.right/0.23.1792.1017@0.23.1792.1017" timestamp="1608169673074" />
+    <state width="1750" height="392" key="GridCell.Tab.1.bottom" timestamp="1608236769221">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="392" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1608236769221" />
+    <state width="1750" height="392" key="GridCell.Tab.1.center" timestamp="1608236769220">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="392" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1608236769220" />
+    <state width="1750" height="392" key="GridCell.Tab.1.left" timestamp="1608236769219">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="392" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1608236769219" />
+    <state width="1750" height="392" key="GridCell.Tab.1.right" timestamp="1608236769220">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="392" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1608236769220" />
+    <state width="600" height="400" key="NewXcodeProjectWizard" timestamp="1608170795086">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="600" height="400" key="NewXcodeProjectWizard/0.0.1792.1120@0.0.1792.1120" timestamp="1608170795086" />
+  </component>
+</project>
