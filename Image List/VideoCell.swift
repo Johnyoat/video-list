@@ -19,6 +19,8 @@ class VideoCell: UITableViewCell {
         addSubview(videoTitleLabel)
         configureVideoImageView()
         configureVideoTitleLabel()
+        setImageConstraints()
+        setTitleConstraints()
     }
 
     required init?(coder: NSCoder) {

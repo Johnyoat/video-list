@@ -1,13 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1644f65a-14d9-4f56-9aa5-c8fc6aba8c33" name="Default Changelist" comment="" />
+    <list default="true" id="1644f65a-14d9-4f56-9aa5-c8fc6aba8c33" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Image List/Assets.xcassets/Artboard 1.imageset/Artboard 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image List/Assets.xcassets/Artboard 1.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image List/Assets.xcassets/Artboard 2 copy.imageset/Artboard 2 copy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image List/Assets.xcassets/Artboard 2 copy.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image List/Assets.xcassets/Artboard 2.imageset/Artboard 2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image List/Assets.xcassets/Artboard 2.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image List/Assets.xcassets/Artboard 3.imageset/Artboard 3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image List/Assets.xcassets/Artboard 3.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image List/Assets.xcassets/Artboard 4.imageset/Artboard 4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image List/Assets.xcassets/Artboard 4.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Image List/Model/Video.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Image List/Model/Video.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Image List/VideoCell.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Image List/VideoCell.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Image List/VideoListViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Image List/VideoListViewController.swift" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="iphonesimulator_505CCF1D-7B9D-42CC-9E52-03204EF568AC" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1llMOkCL85Uxvca64rHObUIV5Yi" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -17,6 +35,7 @@
     <property name="OBJC.PRESERVED_TARGET_SELECTION" value="Image List" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
@@ -40,6 +59,8 @@
       <option name="presentableId" value="Default" />
       <updated>1608167195118</updated>
       <workItem from="1608167196211" duration="5314000" />
+      <workItem from="1608240049264" duration="3025000" />
+      <workItem from="1608359680934" duration="1549000" />
     </task>
     <servers />
   </component>
@@ -59,42 +80,42 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="654" y="437" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1792.1120@0.0.1792.1120" timestamp="1608215337380" />
-    <state width="1750" height="392" key="GridCell.Tab.0.bottom" timestamp="1608236769218">
+    <state width="1750" height="392" key="GridCell.Tab.0.bottom" timestamp="1608359592895">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="392" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1608236769218" />
+    <state width="1750" height="392" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1608359592895" />
     <state width="1750" height="392" key="GridCell.Tab.0.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1608169673082" />
-    <state width="1750" height="392" key="GridCell.Tab.0.center" timestamp="1608236769217">
+    <state width="1750" height="392" key="GridCell.Tab.0.center" timestamp="1608359592894">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="392" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1608236769217" />
+    <state width="1750" height="392" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1608359592894" />
     <state width="1750" height="392" key="GridCell.Tab.0.center/0.23.1792.1017@0.23.1792.1017" timestamp="1608169673066" />
-    <state width="1750" height="392" key="GridCell.Tab.0.left" timestamp="1608236769216">
+    <state width="1750" height="392" key="GridCell.Tab.0.left" timestamp="1608359592891">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="392" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1608236769216" />
+    <state width="1750" height="392" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1608359592891" />
     <state width="1750" height="392" key="GridCell.Tab.0.left/0.23.1792.1017@0.23.1792.1017" timestamp="1608169673065" />
-    <state width="1750" height="392" key="GridCell.Tab.0.right" timestamp="1608236769218">
+    <state width="1750" height="392" key="GridCell.Tab.0.right" timestamp="1608359592895">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="392" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1608236769218" />
+    <state width="1750" height="392" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1608359592895" />
     <state width="1750" height="392" key="GridCell.Tab.0.right/0.23.1792.1017@0.23.1792.1017" timestamp="1608169673074" />
-    <state width="1750" height="392" key="GridCell.Tab.1.bottom" timestamp="1608236769221">
+    <state width="1750" height="392" key="GridCell.Tab.1.bottom" timestamp="1608359592897">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="392" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1608236769221" />
-    <state width="1750" height="392" key="GridCell.Tab.1.center" timestamp="1608236769220">
+    <state width="1750" height="392" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1608359592897" />
+    <state width="1750" height="392" key="GridCell.Tab.1.center" timestamp="1608359592896">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="392" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1608236769220" />
-    <state width="1750" height="392" key="GridCell.Tab.1.left" timestamp="1608236769219">
+    <state width="1750" height="392" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1608359592896" />
+    <state width="1750" height="392" key="GridCell.Tab.1.left" timestamp="1608359592896">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="392" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1608236769219" />
-    <state width="1750" height="392" key="GridCell.Tab.1.right" timestamp="1608236769220">
+    <state width="1750" height="392" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1608359592896" />
+    <state width="1750" height="392" key="GridCell.Tab.1.right" timestamp="1608359592897">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="392" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1608236769220" />
+    <state width="1750" height="392" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1608359592897" />
     <state width="600" height="400" key="NewXcodeProjectWizard" timestamp="1608170795086">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
